@@ -12,9 +12,9 @@
 *所有以'''''加粗斜体'''''标明的字句为我个人的注释乃至订正，与原文无关。
 *所有被<del>删除线</del>划掉的字句纯属瞎扯，若有机会移至主空间则应删除它们。
 *所有被'''粗体'''标明的字句有待进一步本土化。
-{| class="wikitable" style="text-align:center" width="1050px"
-|-
-! width="15%" |干员!!备注
+{|class="wikitable filterable mw-collapsible mw-collapsed" style="text-align:center" width="100%" 
+! class="filterable-head"  width="12%" |干员
+! class="filterable-head"  |备注
 |-
 |{{干员头像/发光|凯尔希|60px}}
 [[凯尔希]]
